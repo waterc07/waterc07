@@ -21,4 +21,4 @@
 
 ---
 
-<p align="center"><sub>保持好奇，动手实现。欢迎在项目 Issues 交流。</sub></p>
+<p align="center"><sub>保持好奇，动手实践。</sub></p>
